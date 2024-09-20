@@ -1,4 +1,9 @@
-# Beater
+# 💫 About Me:
+📫 How to reach me trunghieu14092004@gmail.com<br>
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/TTQ.NTH.Kirito) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beater/)
+
 ## 🚀💻 Problem Solving
 <p align="center">
   <a href="https://codeforces.com/profile/beater25" target="_blank" style="margin-right: 20px;">
@@ -12,7 +17,7 @@
   </a>
 </p>
 
-# Languages and tools
+## Languages and tools
 <p align="left">  
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -58,7 +63,7 @@
         alt="typescript" width="40" height="40" /> </a> 
 </p>
   
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NTH2k4&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NTH2k4&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NTH2k4&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
